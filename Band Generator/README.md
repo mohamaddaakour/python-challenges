@@ -19,16 +19,13 @@ This project is often used as a beginner exercise to understand Python input/out
 3.  Navigate to the directory where the file is saved.
 4.  Run the following command:
 
-```bash
-python main.py
-Example Usage
 Here is what the program looks like when running:
 
-Plaintext
-
+```Plaintext
 Welcome to the Band Name Generator
 what's the name of the city you grew up in?
 > London
 What's your pet's name?
 > Rex
 Your band name could be London Rex
+```
