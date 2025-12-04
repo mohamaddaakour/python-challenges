@@ -38,4 +38,4 @@ for symbol in range(0, number_symbols):
 random.shuffle(result)
 
 # to put the list elements in one string
-print("Your password is:", "".join(result))
+print(f"Your password is: {"".join(result)}")
