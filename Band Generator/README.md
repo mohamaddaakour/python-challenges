@@ -10,9 +10,6 @@ This project is often used as a beginner exercise to understand Python input/out
 * **String Concatenation:** Combines multiple strings into a single variable.
 * **User-Friendly Output:** Displays a clear welcome message and the final generated name.
 
-## Prerequisites
-* Python 3.x installed on your machine.
-
 ## How to Run
 1.  Save the Python code in a file named `main.py`.
 2.  Open your terminal or command prompt.
